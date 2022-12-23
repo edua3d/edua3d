@@ -1,6 +1,6 @@
 # 💫 About Me:
--🔭 I’m currently working on my own personal projects.
--💬 Ask me about anything.
+-🔭 I’m currently working on my own personal projects.<br>
+-💬 Ask me about anything.<br>
 -📫 How to reach me: EDU#5326
 
 
